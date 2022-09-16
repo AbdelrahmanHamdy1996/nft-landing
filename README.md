@@ -21,5 +21,6 @@
   <td><strong>Link:</strong></td>
   <td>https://hugocorreaa.github.io/nft-landing/</td>
  </tr>
+ 
 </table>
 
